@@ -32,6 +32,7 @@ training on the data.
 The second button `Evaluate` calculates the f1 score for the model. 
 
 The last one `Predict` will take you to a text area to write your job title 
+
 <img src='images/predict.PNG' />
 
 Then click on `show prediction` button and the model will predict your industry type.
